@@ -1,0 +1,26 @@
+---
+marp: true
+theme: default
+style: h1{color:#333}
+
+---
+
+## 商业模式影响分析
+
+- 直接商业价值
+  - 服务佣金收入、广告推广收入、增值服务收入
+
+- 间接商业价值
+  - 提升用户活跃度、增强用户粘性、拓展服务场景
+
+- 长期战略价值
+  - 数据资产积累、AI能力沉淀、生态价值提升
+
+![bg 110% opacity:.80](./theme.png)
+
+<!--
+backgroundImage: url("./logo.png");
+backgroundSize: 10% ;
+backgroundPosition: 98% 3% ;
+-->
+                    
